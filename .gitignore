@@ -1,0 +1,24 @@
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+
+# Jupyter Notebook Checkpoints
+# These are temporary versions of your notebooks created by JupyterLab.
+.ipynb_checkpoints/
+
+# Python byte-code files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Virtual environment directories created by other tools (common practice)
+.venv/
+env/
+venv/
+ENV/
+
+# Editor/OS specific files
+.DS_Store
+.vscode/
+# Add files for other editors or OSes as needed
