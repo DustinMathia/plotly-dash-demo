@@ -10,9 +10,15 @@ dependencies:
 - pandas
 - dash-bootstrap-components
 
+
 to run jupyter notebook:
 
 `pixi run jupyter lab`
+
+
+to run specific python app:
+
+`pixi run python "app name".py`
 
 
 to run multi-page app:
