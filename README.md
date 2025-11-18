@@ -15,7 +15,7 @@ dependencies:
 
 Once you have pixi installed run:
 
-'pixi install'
+`pixi install`
 
 
 to run jupyter notebook:
