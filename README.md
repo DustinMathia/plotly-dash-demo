@@ -1,7 +1,7 @@
 # plotly-dash-demo
 workshop style presentation on how to make interactive data visualizations with plotly dash.
 
-[slides for workshop](/plotly dash workshop.pptx)
+slides: [plotly dash workshop](https://docs.google.com/presentation/d/1N2VfXbl4mGOuB40Y8MKjEL6N6oLDdlcKzQg-SEcJAQI/edit?usp=sharing)
 
 dependencies:
 
