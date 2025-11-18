@@ -14,6 +14,7 @@ dependencies:
 
 
 Once you have pixi installed run:
+
 'pixi install'
 
 
