@@ -13,6 +13,10 @@ dependencies:
 - dash-bootstrap-components
 
 
+Once you have pixi installed run:
+'pixi install'
+
+
 to run jupyter notebook:
 
 `pixi run jupyter lab`
