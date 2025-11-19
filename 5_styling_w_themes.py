@@ -14,8 +14,6 @@ import dash_bootstrap_components as dbc
 #! copy stylesheet references from theme explorer website
 # stylesheet with the .dbc class to style  dcc, DataTable and AG Grid components with a Bootstrap theme
 dbc_css = "https://cdn.jsdelivr.net/gh/AnnMarieW/dash-bootstrap-templates/dbc.min.css" #!
-# if using the vizro theme
-vizro_bootstrap = "https://cdn.jsdelivr.net/gh/mckinsey/vizro@main/vizro-core/src/vizro/static/css/vizro-bootstrap.min.css?v=2" #!
 
 
 #! change constructor
