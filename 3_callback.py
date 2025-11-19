@@ -16,7 +16,7 @@ app.layout = [
 
 @callback #!
     Output('graph-fig', 'figure'),
-    Input('dropdown', 'value')
+    Input('dropdown', 'value'),
 )
 def update_graph(value): #!
     return px.scatter(df, x=value, y='frequency')
